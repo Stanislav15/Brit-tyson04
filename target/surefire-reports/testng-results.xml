@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BriteERP Automation Test" duration-ms="11075" started-at="2019-01-29T21:40:08Z" finished-at="2019-01-29T21:40:19Z">
+    <groups>
+    </groups>
+    <test name="Login Smoke Test" duration-ms="11075" started-at="2019-01-29T21:40:08Z" finished-at="2019-01-29T21:40:19Z">
+      <class name="Tests.SmokeTest.ManufactureLogIn">
+        <test-method status="PASS" signature="beforeEverythingElse()[pri:0, instance:Tests.SmokeTest.ManufactureLogIn@f478a81]" name="beforeEverythingElse" is-config="true" duration-ms="9" started-at="2019-01-29T21:40:08Z" finished-at="2019-01-29T21:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEverythingElse -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.SmokeTest.ManufactureLogIn@f478a81]" name="setUp" is-config="true" duration-ms="172" started-at="2019-01-29T21:40:08Z" finished-at="2019-01-29T21:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:Tests.SmokeTest.ManufactureLogIn@f478a81]" name="LogIn" duration-ms="10873" started-at="2019-01-29T21:40:08Z" finished-at="2019-01-29T21:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="AfterEachMethod()[pri:0, instance:Tests.SmokeTest.ManufactureLogIn@f478a81]" name="AfterEachMethod" is-config="true" duration-ms="1" started-at="2019-01-29T21:40:19Z" finished-at="2019-01-29T21:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEachMethod -->
+        <test-method status="PASS" signature="afterEverythingElse()[pri:0, instance:Tests.SmokeTest.ManufactureLogIn@f478a81]" name="afterEverythingElse" is-config="true" duration-ms="2" started-at="2019-01-29T21:40:19Z" finished-at="2019-01-29T21:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEverythingElse -->
+      </class> <!-- Tests.SmokeTest.ManufactureLogIn -->
+    </test> <!-- Login Smoke Test -->
+  </suite> <!-- BriteERP Automation Test -->
+</testng-results>
